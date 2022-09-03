@@ -46,7 +46,7 @@
             // 
             this.linkLabel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(13, 34);
+            this.linkLabel1.Location = new System.Drawing.Point(29, 43);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(0, 14);
             this.linkLabel1.TabIndex = 0;
@@ -57,7 +57,7 @@
             this.generateBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.generateBtn.Font = new System.Drawing.Font("Futura", 9F);
             this.generateBtn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.generateBtn.Location = new System.Drawing.Point(264, 417);
+            this.generateBtn.Location = new System.Drawing.Point(280, 426);
             this.generateBtn.Name = "generateBtn";
             this.generateBtn.Size = new System.Drawing.Size(109, 39);
             this.generateBtn.TabIndex = 3;
@@ -71,7 +71,7 @@
             this.idItext.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.idItext.Font = new System.Drawing.Font("Futura", 9F);
             this.idItext.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.idItext.Location = new System.Drawing.Point(264, 166);
+            this.idItext.Location = new System.Drawing.Point(280, 175);
             this.idItext.MaxLength = 32;
             this.idItext.Name = "idItext";
             this.idItext.Size = new System.Drawing.Size(109, 23);
@@ -91,7 +91,7 @@
             this.links.ItemHeight = 19;
             this.links.Location = new System.Drawing.Point(12, 12);
             this.links.Name = "links";
-            this.links.Size = new System.Drawing.Size(223, 380);
+            this.links.Size = new System.Drawing.Size(249, 399);
             this.links.TabIndex = 5;
             // 
             // copyBtn
@@ -100,7 +100,7 @@
             this.copyBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.copyBtn.Font = new System.Drawing.Font("Futura", 8.25F);
             this.copyBtn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.copyBtn.Location = new System.Drawing.Point(264, 327);
+            this.copyBtn.Location = new System.Drawing.Point(280, 336);
             this.copyBtn.Name = "copyBtn";
             this.copyBtn.Size = new System.Drawing.Size(109, 39);
             this.copyBtn.TabIndex = 6;
@@ -114,7 +114,7 @@
             this.clearBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.clearBtn.Font = new System.Drawing.Font("Futura", 9F);
             this.clearBtn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.clearBtn.Location = new System.Drawing.Point(264, 237);
+            this.clearBtn.Location = new System.Drawing.Point(280, 246);
             this.clearBtn.Name = "clearBtn";
             this.clearBtn.Size = new System.Drawing.Size(109, 39);
             this.clearBtn.TabIndex = 7;
@@ -125,7 +125,7 @@
             // nChars
             // 
             this.nChars.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.nChars.Location = new System.Drawing.Point(264, 64);
+            this.nChars.Location = new System.Drawing.Point(280, 73);
             this.nChars.Maximum = 2;
             this.nChars.Minimum = 1;
             this.nChars.Name = "nChars";
@@ -141,7 +141,7 @@
             this.copy2Btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.copy2Btn.Font = new System.Drawing.Font("Futura", 8.25F);
             this.copy2Btn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.copy2Btn.Location = new System.Drawing.Point(264, 372);
+            this.copy2Btn.Location = new System.Drawing.Point(280, 381);
             this.copy2Btn.Name = "copy2Btn";
             this.copy2Btn.Size = new System.Drawing.Size(109, 39);
             this.copy2Btn.TabIndex = 9;
@@ -152,7 +152,7 @@
             // linksCount
             // 
             this.linksCount.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.linksCount.Location = new System.Drawing.Point(264, 115);
+            this.linksCount.Location = new System.Drawing.Point(280, 124);
             this.linksCount.Minimum = 1;
             this.linksCount.Name = "linksCount";
             this.linksCount.Size = new System.Drawing.Size(109, 45);
@@ -166,7 +166,7 @@
             this.openAllBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.openAllBtn.Font = new System.Drawing.Font("Futura", 9F);
             this.openAllBtn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.openAllBtn.Location = new System.Drawing.Point(264, 282);
+            this.openAllBtn.Location = new System.Drawing.Point(280, 291);
             this.openAllBtn.Name = "openAllBtn";
             this.openAllBtn.Size = new System.Drawing.Size(109, 39);
             this.openAllBtn.TabIndex = 16;
@@ -180,7 +180,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Futura", 9F);
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.button1.Location = new System.Drawing.Point(264, 192);
+            this.button1.Location = new System.Drawing.Point(280, 201);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(109, 39);
             this.button1.TabIndex = 17;
@@ -194,7 +194,7 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Futura", 9F);
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.button2.Location = new System.Drawing.Point(149, 417);
+            this.button2.Location = new System.Drawing.Point(165, 426);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(109, 39);
             this.button2.TabIndex = 18;
@@ -211,7 +211,7 @@
             this.credit2.Font = new System.Drawing.Font("Futura", 10F);
             this.credit2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
             this.credit2.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.credit2.Location = new System.Drawing.Point(50, 433);
+            this.credit2.Location = new System.Drawing.Point(50, 442);
             this.credit2.Name = "credit2";
             this.credit2.Size = new System.Drawing.Size(106, 18);
             this.credit2.TabIndex = 25;
@@ -225,7 +225,7 @@
             this.credit1.AutoSize = true;
             this.credit1.Font = new System.Drawing.Font("Futura", 10F);
             this.credit1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
-            this.credit1.Location = new System.Drawing.Point(9, 417);
+            this.credit1.Location = new System.Drawing.Point(9, 426);
             this.credit1.Name = "credit1";
             this.credit1.Size = new System.Drawing.Size(61, 18);
             this.credit1.TabIndex = 24;
@@ -237,7 +237,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
-            this.ClientSize = new System.Drawing.Size(385, 466);
+            this.ClientSize = new System.Drawing.Size(401, 475);
             this.Controls.Add(this.credit2);
             this.Controls.Add(this.credit1);
             this.Controls.Add(this.button2);
