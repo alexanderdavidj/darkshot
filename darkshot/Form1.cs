@@ -69,7 +69,7 @@ namespace Darkshot {
         private void Form1_Load(object sender, EventArgs e) {
             try {
                 LinkLabel.Link link = new LinkLabel.Link();
-                link.LinkData = "https://github.com/tool-assisted/";
+                link.LinkData = "https://github.com/alexanderdavidj/";
 
                 credit2.LinkClicked += goTo;
                 credit2.Links.Add(link);

@@ -23,7 +23,7 @@ namespace Darkshot {
         public Settings(DarkshotForm darkshotForm) {
             InitializeComponent();
             LinkLabel.Link link = new LinkLabel.Link();
-            link.LinkData = "https://github.com/tool-assisted/";
+            link.LinkData = "https://github.com/alexanderdavidj/";
 
             credit2.LinkClicked += goTo;
             credit2.Links.Add(link);

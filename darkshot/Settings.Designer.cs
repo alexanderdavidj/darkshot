@@ -129,10 +129,10 @@
             this.credit2.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
             this.credit2.Location = new System.Drawing.Point(49, 505);
             this.credit2.Name = "credit2";
-            this.credit2.Size = new System.Drawing.Size(80, 18);
+            this.credit2.Size = new System.Drawing.Size(106, 18);
             this.credit2.TabIndex = 23;
             this.credit2.TabStop = true;
-            this.credit2.Text = "tool-assisted";
+            this.credit2.Text = "alexanderdavidj";
             this.credit2.VisitedLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
             // 
             // credit1
